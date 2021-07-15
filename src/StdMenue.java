@@ -103,7 +103,6 @@ public class StdMenue {
                         senior_project.SpervisorStudentInterests(student_id);
 
                     }
-
                 }
 
             } else if (choice == 5) {
