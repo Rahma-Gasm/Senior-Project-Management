@@ -106,13 +106,6 @@ public class StdMenue {
                 }
 
             } else if (choice == 5) {
-                senior_project.print_student();
-                System.out.println("Please select your option: ");
-                System.out.println("1. Remove student by his/her ID ");
-                System.out.println("2. Remove students who have not to complete the minimum requirement.");
-                System.out.print(" > Please enter your choice: ");
-                int option = input.nextInt();
-                if (option == 1) {
                     System.out.print("Please enter the student ID that you would like to remove: ");
                     String id = input.next();
                     if (senior_project.checked_id(id) == false) {
@@ -121,12 +114,7 @@ public class StdMenue {
                     } else {
                         senior_project.deleteStudent(id);
                     }
-                } else if (option == 2) {
-
-                }
-
-            } else if (choice == 6) {
-
+                
             } else {
                 System.out.println("Good bye!");
                 System.exit(0);
