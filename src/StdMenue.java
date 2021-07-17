@@ -106,6 +106,7 @@ public class StdMenue {
                 }
 
             } else if (choice == 5) {
+                    senior_project.print_student();
                     System.out.print("Please enter the student ID that you would like to remove: ");
                     String id = input.next();
                     if (senior_project.checked_id(id) == false) {
@@ -113,6 +114,8 @@ public class StdMenue {
 
                     } else {
                         senior_project.deleteStudent(id);
+                        System.out.println("");           
+                        System.out.println("Student who has ID "+id+" deleted successfully!");
                     }
                 
             } else {
