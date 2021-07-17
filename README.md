@@ -33,6 +33,6 @@ Java, Linked List
 <img width="1025" alt="Screen Shot 2021-07-17 at 2 43 37 PM" src="https://user-images.githubusercontent.com/58330569/126035776-52e282d9-0e47-49a0-a42a-97cfd45dac81.png">
 
 ## Installation 
-Step 1: Download Netbeans from here https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
-Step 2: Download this project from github                                                                                              
-Step 3: At the top of the page in the NetBeans application, click on Open a project and choose the project you downloaded from github (Note project should be unzipped
+Step 1: Download Netbeans app from here https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
+Step 2: Download this project from github.                                                                                              
+Step 3: At the top of the page in the NetBeans application, click on Open a project and choose the project you downloaded from github (Note project should be unzipped.
