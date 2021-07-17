@@ -118,6 +118,8 @@ public class StdMenue {
                         System.out.println("Student who has ID "+id+" deleted successfully!");
                     }
                 
+            } else if (choice == 6){ 
+               
             } else {
                 System.out.println("Good bye!");
                 System.exit(0);
