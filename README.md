@@ -12,9 +12,9 @@ Java, Linked List
 - Add a new student                              
 - Print supervisor list                          
 - Print student list                             
-- Add research topic                             
+- Add research topic (Not activated yet)                             
 - Remove student                                 
-- Print senior project list in ascending order   
+- Print senior project list in ascending order (Not activated yet)   
 
 ## Screenshots
 - Add a new student 
@@ -27,5 +27,9 @@ Java, Linked List
 <img width="1155" alt="Screen Shot 2021-07-17 at 1 52 00 PM" src="https://user-images.githubusercontent.com/58330569/126034628-4ddd381a-2845-4425-9617-5c622104f5c4.png">
 
 - Remove student  
+<img width="1345" alt="Screen Shot 2021-07-17 at 2 20 50 PM" src="https://user-images.githubusercontent.com/58330569/126035234-f0b0149b-9ff7-42c9-a6eb-8e16fe81ab3c.png">
 
+- EXIT from program
+<img width="1025" alt="Screen Shot 2021-07-17 at 2 43 37 PM" src="https://user-images.githubusercontent.com/58330569/126035776-52e282d9-0e47-49a0-a42a-97cfd45dac81.png">
 
+## Installation 
