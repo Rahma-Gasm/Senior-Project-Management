@@ -17,3 +17,4 @@ Java, Linked List
 - Print senior project list in ascending order   
 
 ## Screenshots
+<img width="1047" alt="Screen Shot 2021-07-17 at 1 46 12 PM" src="https://user-images.githubusercontent.com/58330569/126034491-bde75e40-4eb6-43a0-972a-1fd553a20391.png">
