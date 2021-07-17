@@ -17,4 +17,15 @@ Java, Linked List
 - Print senior project list in ascending order   
 
 ## Screenshots
+- Add a new student 
 <img width="1047" alt="Screen Shot 2021-07-17 at 1 46 12 PM" src="https://user-images.githubusercontent.com/58330569/126034491-bde75e40-4eb6-43a0-972a-1fd553a20391.png">
+
+- Print supervisor list 
+<img width="1048" alt="Screen Shot 2021-07-17 at 1 50 23 PM" src="https://user-images.githubusercontent.com/58330569/126034592-e5ec884e-1000-4def-a315-0cc4847b8bd3.png">
+
+- Print student list  
+<img width="1155" alt="Screen Shot 2021-07-17 at 1 52 00 PM" src="https://user-images.githubusercontent.com/58330569/126034628-4ddd381a-2845-4425-9617-5c622104f5c4.png">
+
+- Remove student  
+
+
